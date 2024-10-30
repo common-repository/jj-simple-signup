@@ -1,0 +1,16 @@
+.simplesignup_event_information {
+	
+}
+
+.jj_simplesignup_widget_widget dl {
+	margin: 0 !important;
+}
+
+.simplesignup_event_information dt {
+	font-weight: bold;
+}
+
+.jj-simplesignup-error {
+	font-size: .8em;
+	color: #FF0000;
+}

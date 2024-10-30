@@ -1,0 +1,205 @@
+# Translation of the WordPress plugin JJ Simple Signup 0.2.2 by <a href="http://www.jarsater.com/" target="_blank">Joakim Jarsäter</a>.
+# Copyright (C) 2010 <a href="http://www.jarsater.com/" target="_blank">Joakim Jarsäter</a>
+# This file is distributed under the same license as the JJ Simple Signup package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: JJ Simple Signup 0.2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jj-simple-signup\n"
+"POT-Creation-Date: 2010-10-27 12:25+0000\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class.admin.Simplesignup.php:46
+msgid "New event added successfully!"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:48
+msgid "Please enter values for ID and Token"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:52
+msgid "Default value changed"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:61 admin/class.admin.Simplesignup.php:76
+msgid "Add"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:67
+msgid "Simple Signup ID"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:71
+msgid "Simple Signup Token"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:82
+msgid "Other settings"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:88
+msgid "Print guestlist as default"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:93
+msgid "Save"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:122
+#: admin/class.admin.Simplesignup.php:133
+msgid "Name"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:123
+#: admin/class.admin.Simplesignup.php:134
+msgid "ID"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:124
+#: admin/class.admin.Simplesignup.php:135
+msgid "Token"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:125
+#: admin/class.admin.Simplesignup.php:136
+msgid "Sold tickets"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:126
+#: admin/class.admin.Simplesignup.php:137
+msgid "Date"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:127
+#: admin/class.admin.Simplesignup.php:138
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:150
+msgid "Edit"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:151
+msgid "Remove"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:152
+msgid "View"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:180
+msgid "My next event"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:183
+msgid "Event"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:187 class.Simplesignup.php:98
+#: jj-simple-signup-widget.php:32
+msgid "Date and time"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:191 class.Simplesignup.php:96
+#: jj-simple-signup-widget.php:30
+msgid "Address"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:195 class.Simplesignup.php:94
+#: jj-simple-signup-widget.php:28
+msgid "Host"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:203
+msgid "Guestlist"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:215
+msgid "Simple Signup RSS"
+msgstr ""
+
+#: admin/class.admin.Simplesignup.php:243
+msgid "Event has been removed"
+msgstr ""
+
+#: class.Simplesignup.php:113
+msgid "No sold tickets"
+msgstr ""
+
+#: jj-simple-signup-widget.php:8
+msgid "This is my widget description"
+msgstr ""
+
+#: jj-simple-signup-widget.php:35
+msgid "Buy ticket"
+msgstr ""
+
+#: jj-simple-signup-widget.php:41
+msgid "Error"
+msgstr ""
+
+#: jj-simple-signup-widget.php:42 jj-simple-signup.php:167
+msgid "Error loading event data"
+msgstr ""
+
+#: jj-simple-signup-widget.php:56
+msgid "Widget Title"
+msgstr ""
+
+#: jj-simple-signup-widget.php:60
+msgid "Display event"
+msgstr ""
+
+#: jj-simple-signup.php:112
+msgid "Simple Signup"
+msgstr ""
+
+#: jj-simple-signup.php:115 jj-simple-signup.php:126 jj-simple-signup.php:174
+msgid "Information"
+msgstr ""
+
+#: jj-simple-signup.php:116 jj-simple-signup.php:135
+msgid "Settings"
+msgstr ""
+
+#: jj-simple-signup.php:117 jj-simple-signup.php:144
+msgid "My Events"
+msgstr ""
+
+#: jj-simple-signup.php:144
+msgid "Add new"
+msgstr ""
+
+#: jj-simple-signup.php:177
+msgid "Attendees"
+msgstr ""
+
+#: jj-simple-signup.php:187
+msgid "Widget"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "JJ Simple Signup"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jarsater.com/jj-simple-signup-wp-plugin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple Signup är en webbtjänst som gör det enkelt för dig som arrangör att "
+"ta emot anmälningar och betalningar till dina evenemang."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid ""
+"<a href=\"http://www.jarsater.com/\" target=\"_blank\">Joakim Jarsäter</a>"
+msgstr ""
